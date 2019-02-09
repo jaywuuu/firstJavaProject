@@ -20,6 +20,8 @@ public class MainClass {
         number = 3;
 
         AnotherClass.SayAnotherClass();
+
+        System.out.println("This is the end")
     }
 
     public static void first() {
